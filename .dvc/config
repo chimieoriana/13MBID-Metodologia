@@ -1,0 +1,7 @@
+[core]
+    autostage = true
+    remote = storage1
+['remote "storage"']
+    url = ../[medio]
+['remote "storage1"']
+    url = ../.datastorage
